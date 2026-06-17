@@ -40,8 +40,8 @@
     "@patternfly/react-tokens": "6.4.0",
     "@redhat-cloud-services/ai-client-state": "^0.15.0",
     "@redhat-cloud-services/lightspeed-client": "^0.15.0",
-    "file-saver": "^2.0.2",
-    "lodash-es": "^4.17.23",
+    "file-saver": "^2.0.5",
+    "lodash-es": "^4.18.1",
     "uuid": "^14.0"
   },
   "devDependencies": {
